@@ -1,4 +1,4 @@
 backend/node_modules
 backend/.env
 .vscode
-frontend/js/test
+frontend/js/test.js
